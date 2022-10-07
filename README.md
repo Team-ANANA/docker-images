@@ -1,2 +1,1 @@
-# docker-images
-This repo contains docker images that can be deployed to any machine that runs docker run time environment at any point in time to run our application.
+This repo contains all the assingment submissions that we need to make as a group, as well as the script that Professor can run to get working version of our application.
