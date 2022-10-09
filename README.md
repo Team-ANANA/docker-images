@@ -1,4 +1,8 @@
-# Guid on starting the servers
+# Writeup
+
+[The writeup can be found at here](https://docs.google.com/document/d/13oWfhbKjyR-rqHgePtYeOm5C5SETE_u0oMiI64eTn2M/edit?usp=sharing)
+
+# Guide on starting the servers
 
 The command below will start three containers. The first one is hosting the backend server that runs Flask application. The second one is hosting a React server and the last one is hosting MySQL server.    
 
