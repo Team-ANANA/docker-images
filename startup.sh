@@ -11,7 +11,7 @@ if [[ $(which docker) ]]; then
   echo "Flask backend running at http://localhost:5000/hello"
   echo "Database running at http://localhost:4000/"
 else
-  echo "You need to install docker"
+  echo "You need to install docker. Get docker at https://docs.docker.com/get-docker/"
 fi
 
 
