@@ -10,7 +10,7 @@
  
 # Guide on running the app
  
-The command below will start three containers. The first one is hosting the backend server that runs the Flask application. The first one is hosting a React server, and the last one is hosting the MySQL server.    
+The command below will start three containers. The first one is hosting the backend server that runs the Flask API. The first one is hosting a React web app, and the last one is hosting the MySQL server.    
  
 `sudo ./startup.sh`
  
