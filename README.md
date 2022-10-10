@@ -19,4 +19,4 @@ Notice that the above command expects the user to have Docker installed locally.
 Once the container is up and running and the applications have started on containers, you can reach following endpoints:
 * localhost:3000: This endpoint reaches the boilerplate React application. 
 * localhost:4000: This endpoint reaches the MySQL database. At this point, the database does not have anything in it.
-* localhost:5000: This endpoint reaches the Flask application. At this point, only the "/hello" route is available for GET requests, and returns "Hello, World!"
+* localhost:5000: This endpoint reaches the Flask application. There are currently two routes that exists, being the default route ("/") and a dummy route ("/hello").
