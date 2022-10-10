@@ -8,7 +8,7 @@
 * Have docker installed - [get docker here](https://docs.docker.com/get-docker/)
 * No service is running on ports 3000, 4000, and 5000
  
-# Guide on starting the servers
+# Guide on running the app
  
 The command below will start three containers. The first one is hosting the backend server that runs the Flask application. The first one is hosting a React server, and the last one is hosting the MySQL server.    
  
