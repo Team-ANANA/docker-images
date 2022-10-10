@@ -1,14 +1,18 @@
 # Writeup
  
-[The writeup can be found at here](https://docs.google.com/document/d/13oWfhbKjyR-rqHgePtYeOm5C5SETE_u0oMiI64eTn2M/edit?usp=sharing)
- 
-# Prerequisites 
+[The writeup can be found here](https://docs.google.com/document/d/13oWfhbKjyR-rqHgePtYeOm5C5SETE_u0oMiI64eTn2M/edit?usp=sharing)
+
+# Team Meeting Notes
+
+[Team meeting notes can be found here](https://docs.google.com/document/d/166w040zMWrSeviLZHL2206l9rXHMqSI9bw6Py3FipdU/edit?usp=sharing)
+
+# Installation Prerequisites 
  
 * Be in a modern linux system 
 * Have docker installed - [get docker here](https://docs.docker.com/get-docker/)
 * No service is running on ports 3000, 4000, and 5000
  
-# Guide on running the app
+# How to install/run the app locally
  
 The command below will start three containers. The first one is hosting the backend server that runs the Flask API. The first one is hosting a React web app, and the last one is hosting the MySQL server.    
  
@@ -20,3 +24,7 @@ Once the container is up and running and the applications have started on contai
 * localhost:3000: This endpoint reaches the boilerplate React application. 
 * localhost:4000: This endpoint reaches the MySQL database. At this point, the database does not have anything in it.
 * localhost:5000: This endpoint reaches the Flask application. There are currently two routes that exists, being the default route ("/") and a dummy route ("/hello").
+
+# Source Code
+
+[The source code for the app is available at this repostiory](https://github.com/Team-ANANA/pet-stats)
