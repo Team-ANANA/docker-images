@@ -6,8 +6,8 @@ if [[ $(which docker) ]]; then
   docker pull mysql/mysql-server:latest
 
   docker run -d -p 5000:5000 --name team0anana-backend team0anana/csc302:backend
-  docker run -d -p 3306:4000 --name team0anana-database mysql/mysql-server:latest
   docker run -d -p 3000:3000 --name team0anana-frontend team0anana/csc302:frontend
+  docker run -d -p 3306:3306 --name team0anana-database -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=pet-stats mysql:latest
 
   # wait for flask endpoint
   echo "Waiting for Flask api to spin up"
