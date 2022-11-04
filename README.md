@@ -1,6 +1,11 @@
-# Writeup
+# Assignment 1 Writeup (October 9, 2022)
  
-[The writeup can be found here](https://docs.google.com/document/d/13oWfhbKjyR-rqHgePtYeOm5C5SETE_u0oMiI64eTn2M/edit?usp=sharing)
+[The writeup for A1 can be found here](https://docs.google.com/document/d/13oWfhbKjyR-rqHgePtYeOm5C5SETE_u0oMiI64eTn2M/edit?usp=sharing)
+
+
+# Assignment 2 Writeup (November 4, 2022)
+ 
+[The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing)
 
 # Team Meeting Notes
 
