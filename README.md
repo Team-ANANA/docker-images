@@ -5,11 +5,11 @@
 
 # Assignment 2 Writeup (November 4, 2022)
  
-[The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing)
+[The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing). 
 
 # Team Meeting Notes
 
-[Team meeting notes can be found here](https://docs.google.com/document/d/166w040zMWrSeviLZHL2206l9rXHMqSI9bw6Py3FipdU/edit?usp=sharing)
+[Team meeting notes can be found here](https://docs.google.com/document/d/166w040zMWrSeviLZHL2206l9rXHMqSI9bw6Py3FipdU/edit?usp=sharing). See the [FAQ section in A2](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit#heading=h.4ie6hly3mav8) for an explanation as to why we are still using Google Docs for our meeting notes.
 
 # Installation Prerequisites 
  
