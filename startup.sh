@@ -46,7 +46,7 @@ if [[ $(which docker) ]]; then
       echo -ne "\r${BAR:0:$i}"
       sleep .5
   done
-  echo -e "\rDatabase running at http://localhost:4000/"
+  echo -e "\rDatabase running at http://localhost:3306/"
   echo "All containers are up and running!"
 else
   echo "You need to install docker.\nGet docker at https://docs.docker.com/get-docker/"
