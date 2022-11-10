@@ -15,7 +15,7 @@
  
 * Be in a modern linux system 
 * Have docker installed - [get docker here](https://docs.docker.com/get-docker/)
-* No service is running on ports 3000, 4000, and 5000
+* No service is running on ports 3000, 3306, and 5000
  
 # How to install/run the app locally
  
@@ -27,7 +27,7 @@ Notice that the above command expects the user to have Docker installed locally.
  
 Once the container is up and running and the applications have started on containers, you can reach following endpoints:
 * localhost:3000: This endpoint reaches the boilerplate React application. 
-* localhost:4000: This endpoint reaches the MySQL database. At this point, the database does not have anything in it.
+* localhost:3306: This endpoint reaches the MySQL database. At this point, the database does not have anything in it.
 * localhost:5000: This endpoint reaches the Flask application. There are currently two routes that exists, being the default route ("/") and a dummy route ("/hello").
 
 # Source Code
