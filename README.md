@@ -33,3 +33,7 @@ Once the container is up and running and the applications have started on contai
 # Source Code
 
 [The source code for the app is available at this repostiory](https://github.com/Team-ANANA/pet-stats)
+
+# Database schema
+
+[The database schema is available here](https://dbdiagram.io/d/6355b9bb4709410195c43573)
