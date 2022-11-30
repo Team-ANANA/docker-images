@@ -1,6 +1,10 @@
 #!/bin/bash
 
 if [[ $(which docker) ]]; then
+  
+  export PET_STATS_DB_PASSWORD="my-secret-pw"
+  export PET_STATS_PETFINDER_PAYLOAD="grant_type=client_credentials&client_id=NiCmTqdkaMK5noEjfRHZwFYrZtOkUd3NVUNKLrrapbH9u5zvJC&client_secret=WN8IH6ibwEGTi1qdNN82wlgURnz5SQZmYLRYFq71"
+
   docker pull team0anana/csc302:backend
   docker pull team0anana/csc302:frontend
   docker pull mysql/mysql-server:latest
