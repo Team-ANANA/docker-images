@@ -13,8 +13,8 @@ if [[ $(which docker) ]]; then
 
   # wait for mysql endpoint
   echo "Waiting for mysql server to spin up"
-  until $(curl --output /dev/null --silent --head --fail http://localhost:3306)
-  done
+  until $(wget -q localhost:3306)
+  do
     BAR='.....'
     for i in 1 2 3 4 5
     do
@@ -59,3 +59,4 @@ if [[ $(which docker) ]]; then
 else
   echo "You need to install docker.\nGet docker at https://docs.docker.com/get-docker/"
 fi
+
