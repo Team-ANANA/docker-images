@@ -14,6 +14,8 @@
 # Installation Prerequisites 
  
 * Be in a modern linux system 
+* Have Internet connection (to install dependencies and load data)
+* Have CURL installed
 * Have docker installed - [get docker here](https://docs.docker.com/get-docker/)
 * No service is running on ports 3000, 3306, and 5000
  
