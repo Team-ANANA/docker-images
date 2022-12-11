@@ -40,7 +40,9 @@ Once the container is up and running and the applications have started on contai
 # How to see logs
 
 run `docker exec -it <container_name> bash` to enter containers and view their perspective logs.
+
 For DB Migration container, the log is called `db.log`.
+
 For API container, the log is called `api.log`.
 
 
