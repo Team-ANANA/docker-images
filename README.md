@@ -26,9 +26,9 @@ The command below will start three containers. The first one is hosting the back
 Notice that the above command expects the user to have Docker installed locally. If this is not the case, the script will not proceed to starting the containers and will prompt the user to install Docker. Once you have Docker installed, you will need to run the above command again.
  
 Once the container is up and running and the applications have started on containers, you can reach following endpoints:
-* localhost:3000: This endpoint reaches the boilerplate React application. 
-* localhost:3306: This endpoint reaches the MySQL database. At this point, the database does not have anything in it.
-* localhost:5000: This endpoint reaches the Flask application. There are currently two routes that exists, being the default route ("/") and a dummy route ("/hello").
+* localhost:3000: This endpoint reaches the boilerplate React application.
+* localhost:3306: This endpoint reaches the MySQL database.
+* localhost:5000: This endpoint reaches the Flask application.
 
 # Source Code
 
