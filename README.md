@@ -7,6 +7,11 @@
  
 [The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing). 
 
+# Assignment 3 Writeup (December 11, 2022)
+ 
+[The writeup for A3 can be found here](https://docs.google.com/document/d/1xPesMctTYMXewh6EW6kKY2oC2OsfQhfeJFa6TDbqigs/edit?usp=sharing). 
+
+
 # Team Meeting Notes
 
 [Team meeting notes can be found here](https://docs.google.com/document/d/166w040zMWrSeviLZHL2206l9rXHMqSI9bw6Py3FipdU/edit?usp=sharing). See the [FAQ section in A2](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit#heading=h.4ie6hly3mav8) for an explanation as to why we are still using Google Docs for our meeting notes.
@@ -31,6 +36,13 @@ Once the container is up and running and the applications have started on contai
 * localhost:3000: This endpoint reaches the frontend React application. (access the application here)
 * localhost:3306: This endpoint reaches the MySQL database.
 * localhost:5000: This endpoint reaches the Flask application.
+
+# How to see logs
+
+run `docker exec -it <container_name> bash` to enter containers and view their perspective logs.
+For DB Migration container, the log is called `db.log`.
+For API container, the log is called `api.log`.
+
 
 # Source Code
 
