@@ -5,7 +5,7 @@ A tool already exists that uses this API to provide individuals with the ability
 
 Specifically, our goal is to provide information around how certain factors, such as geography, time, significant events (such as the COVID-19 pandemic), and pet-related data (such as breed or gender), affect adoption availability and outcomes. 
 
-# Achieving Our Goal (Pet Spot)
+# Achieving Our Goal
 This project will achieve our goal through the use of data visualization. Specifically, two visualization types will be used: 
 
 - pie charts
