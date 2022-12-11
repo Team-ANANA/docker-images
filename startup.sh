@@ -56,6 +56,7 @@ if [[ $(which docker) ]]; then
   echo "Importing data from Petfinder"
   sleep 2
   docker run --name team0anana-db_import team0anana/csc302:db_import
+  echo "Import successful, see readme.md for further instructions."
 else
   echo "You need to install docker.\nGet docker at https://docs.docker.com/get-docker/"
 fi
