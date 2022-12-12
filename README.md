@@ -6,12 +6,17 @@ A tool already exists that uses this API to provide individuals with the ability
 Specifically, our goal is to provide information around how certain factors, such as geography, time, significant events (such as the COVID-19 pandemic), and pet-related data (such as breed or gender), affect adoption availability and outcomes. 
 
 # Achieving Our Goal
-This project will achieve our goal through the use of data visualization. Specifically, two visualization types will be used: 
+This project will achieve our goal through the use of data visualization. The visualization will help users to easily find trends on pet adoption data. Specifically, two visualization types will be used: 
 
 - Pie Charts ([Demo](https://www.youtube.com/watch?v=iHq53CDoB5o))
 - geographical heatmaps ([Demo](https://youtu.be/HmM4CWA5d5I))
 
-Pie charts will be used to display data regarding the distribution of subsets — for example, availability of different breeds of dogs. Geographical heatmaps also the user to easily see trends over geography regions. Our project contains two geographic maps, one for the United States and one for Canada.
+Pie charts will be used to display data regarding the distribution of subsets — for example, availability of different breeds of dogs. Percentage of each subsets can be seem from our visualization. 
+
+Geographical heatmaps also the user to easily see trends over geography regions (provinces or states). Our project contains two geographic maps, one for the United States and one for Canada.
+
+## How to see and interact with the visualizations locally
+The visualization can be seen and interacted with after the app is [installed and run locally](https://github.com/Team-ANANA/logistics#installation-prerequisites). After, go to our frontend which can be found on [http://localhost:3000](http://localhost:3000) locally. Go to the visualization desired using the navigation bar. Then apply filters and click on generate to generate the visualization. Example interactions can be seen in our above demos. 
 
 # Features Not Delivered
 (1) Line Graph Visualization 
