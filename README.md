@@ -8,8 +8,8 @@ Specifically, our goal is to provide information around how certain factors, suc
 # Achieving Our Goal
 This project will achieve our goal through the use of data visualization. Specifically, two visualization types will be used: 
 
-- pie charts
-- geographical heatmaps
+- Pie Charts ([Demo](https://www.youtube.com/watch?v=iHq53CDoB5o))
+- geographical heatmaps ([Demo](https://youtu.be/HmM4CWA5d5I))
 
 Pie charts will be used to display data regarding the distribution of subsets — for example, availability of different breeds of dogs. Geographical heatmaps also the user to easily see trends over geography regions. Our project contains two geographic maps, one for the United States and one for Canada.
 
@@ -37,11 +37,16 @@ After validing the amount of data PetFinderAPI has for each of the countries. We
 
 ## Assignment 2 Writeup (November 4, 2022)
  
-[The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing). 
+[The writeup for A2 can be found here](https://docs.google.com/document/d/1vduE1n-evvWOY41xiLUakpZxUQwNTGTxCLf1SO8_XTo/edit?usp=sharing)
 
 ## Assignment 3 Writeup (December 11, 2022)
  
-[The writeup for A3 can be found here](https://docs.google.com/document/d/1xPesMctTYMXewh6EW6kKY2oC2OsfQhfeJFa6TDbqigs/edit?usp=sharing). 
+[The writeup for A3 can be found here](https://docs.google.com/document/d/1xPesMctTYMXewh6EW6kKY2oC2OsfQhfeJFa6TDbqigs/edit?usp=sharing)
+
+## Presentation (December 8, 2022)
+ 
+[The presentation slides can be found here](https://docs.google.com/presentation/d/1xE05Av3_3TnthOjJZw87GeIKRYn-a_3gBEs-1UrLyLc/edit?usp=sharing)
+
 
 
 # Team Meeting Notes
